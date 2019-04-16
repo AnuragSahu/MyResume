@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.3.29)  16 APR 2019 22:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.3.29)  16 APR 2019 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,45 +941,45 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 67.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 69.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 196.
+(Font)              <7> on input line 198.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 196.
+(Font)              <5> on input line 198.
 
-Overfull \hbox (19.66031pt too wide) in paragraph at lines 196--202
+Overfull \hbox (19.66031pt too wide) in paragraph at lines 198--204
 [][]  
  []
 
 
-Overfull \hbox (33.01529pt too wide) in paragraph at lines 210--221
+Overfull \hbox (33.01529pt too wide) in paragraph at lines 212--223
 [][]  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
  (./anurag_sahu_resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 237.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 237.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
  19608 strings out of 494988
