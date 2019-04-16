@@ -88,9 +88,9 @@ Computer Networks \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-C \textbullet{} Python \textbullet{} Javascript \\ 
 \location{Over 1000 lines:}
+C \textbullet{} Python \textbullet{} Javascript \\ 
+\location{Over 500 lines:}
 Java \textbullet{} CSS \textbullet{} PHP \\
 ReactJS \textbullet{} Go \textbullet{} R \\
 \location{Familiar:}
@@ -193,6 +193,18 @@ Currently Enhancing my skills in Deep Learning and DL Algorithms, Specially on B
 2017 		 & Best Project Award for making the Air Pollution Monitering System. \\
 
 \end{tabular}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACADEMIC PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\sectionsep
+\section{Academic Projects} 
+\begin{tabular}{rll}
+1. Made Smart Helmet for Mine Workers.
+\end{tabular}
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
