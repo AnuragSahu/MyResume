@@ -1,9 +1,9 @@
 \documentclass[]{anurag_sahu_cls}
 \usepackage{fancyhdr}
- 
+
 \pagestyle{fancy}
 \fancyhf{}
- 
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -27,11 +27,11 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.33\textwidth}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Contact
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Contact} 
+\section{Contact}
 Phone  +91 7898067490 \\
 anuragsahu926@gmail.com \\
 anurag.sahu@research.iiit.ac.in \\
@@ -42,7 +42,7 @@ AnuragSahu.github.io \\
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
+\section{Links}
 Facebook:// \href{https://www.facebook.com/Anuragboy1}{\bf Anurag-Sahu} \\
 Github:// \href{https://github.com/AnuragSahu}{\bf AnuragSahu} \\
 LinkedIn://  \href{https://www.linkedin.com/in/anurag-sahu-93ba27143/}{\bf Anurag-Sahu} \\
@@ -93,7 +93,7 @@ Computer Networks \\
 \location{Over 1000 lines:}
 \textbullet{} Python \\
 \textbullet{} C++ \\
-\textbullet{} Javascript \\ 
+\textbullet{} Javascript \\
 \location{Projects:}
 \textbullet{} Matlab \\
 \textbullet{} Git \textbullet{} PHP \\
@@ -121,9 +121,9 @@ Training in Android. \\
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -139,25 +139,11 @@ Training in Android. \\
 \item Made the Video artefact for the Infix to Postfix Exercise.
 \end{tightemize}
 
-\sectionsep
-
-\runsubsection{Thought Applied Creations}
-\descript{| Software Engineering Intern }
-\location{Nov 2017 – Dec 2017 | Raipur, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item 2 out of 52 applicants chosen for the Internship.
-\item Completed the given task before the deadline.
-\item Appreciated for the work by the company head Mr TK Paul.
-\item Successfull Developed an Application for the Completion of the task.
-\end{tightemize}
-\sectionsep
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education} 
+\section{Education}
 
 \subsection{IIIT Hyderabad}
 \descript{BTech in Computer Science}
@@ -187,14 +173,14 @@ Currently Enhancing my skills in Deep Learning and DL Algorithms, Specially on B
 %\runsubsection{Cornell Phonetics Lab}
 %\descript{| Head Undergraduate Researcher}
 %\location{Mar 2012 – May 2013 | Ithaca, NY}
-%Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+%Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
 %\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Awards}
 \begin{tabular}{rll}
 2018         & top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIIT Hyderabad}. \\
 2017         & top 18 / 4500 Selected for Think Raipur conducted by RSCL. \\
@@ -208,16 +194,19 @@ Currently Enhancing my skills in Deep Learning and DL Algorithms, Specially on B
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \sectionsep
-\section{Academic Projects} 
+\section{Academic Projects}
 \begin{tabular}{rll}
 
-1. &Made {\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
-2. &Made {\bf 2D Game}, {\bf 3D Game} and and {\bf 3D infinite Runner game} in {\bf OpenGL and WebGL}.\\
-3. &{\bf Server and Client Side programs} for requesting access and downloading files.\\
-4. &{\bf Proxy Server} for local server and Client programs.\\
-5. &{\bf Matlab Image processing} to remove noise from Images and sound. \\
-6. &Shell and Changing {\bf xv36 Operating System} for new features.\\
-7. &AI {\bf MDP Utility generator}. \\
+- &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
+- &{\bf Visual Odometry} recovering trajectory using camera.\\
+- &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
+- &Made {\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
+- &Made {\bf 2D Game}, {\bf 3D Game} and and {\bf 3D infinite Runner game} in {\bf OpenGL and WebGL}.\\
+- &{\bf Server and Client Side programs} for requesting access and downloading files.\\
+- &{\bf Proxy Server} for local server and Client programs.\\
+- &{\bf Matlab Image processing} to remove noise from Images and sound. \\
+- &Shell and Changing {\bf xv36 Operating System} for new features.\\
+- &AI {\bf MDP Utility generator}. \\
 
 \end{tabular}
 
@@ -227,11 +216,11 @@ Currently Enhancing my skills in Deep Learning and DL Algorithms, Specially on B
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\section{Publications} 
+%\section{Publications}
 %\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
 %\bibliographystyle{abbrv}
 %\bibliography{publications}
 %\nocite{*}
 
-\end{minipage} 
+\end{minipage}
 \end{document}  \documentclass[]{article}
