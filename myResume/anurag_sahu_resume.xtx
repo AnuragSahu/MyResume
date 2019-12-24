@@ -197,6 +197,7 @@ Currently Enhancing my skills in Deep Learning and DL Algorithms, Specially on B
 \section{Academic Projects}
 \begin{tabular}{rll}
 
+- &Classification and Regression on standard Datasets.(Images and Text)\\
 - &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
 - &{\bf Visual Odometry} recovering trajectory using camera.\\
 - &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
