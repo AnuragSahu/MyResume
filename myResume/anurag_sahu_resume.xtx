@@ -72,9 +72,9 @@ Artificial Intelligence \\
 Algorithms \\
 Computation Complexity Theory \\
 
-Artificial Intelligence + Implementations \\
-Computer Graphics + Assignments \\
-Digital Signal Analysis And Applications \\
+Artificial Intelligence \\
+Computer Graphics \\
+Digital Signal Analysis \\
 Formal Methods \\
 Computer Networks \\
 
@@ -166,10 +166,10 @@ Working on making synthetic warehouses for training the DL/RL models wo that the
 \runsubsection{Ongoing Project 1}
 \descript{| Applications on synthetic warehouses}
 Given the RGB images of racks with some objects in them, Estimate the Free space in the racks. Find the Bounding boxes aroud the objects placed in the racks and the racks themselves.
-%\sectionsep
+\sectionsep
 
 \runsubsection{Ongoing Project 2}
-\descript{| Applications on synthetic warehouses}
+\descript{| Applications on Real images}
 Given the RGB images of objects find out the 3d Point cloud of the objects in the picture.\sectionsep
 
 %\runsubsection{Cornell Phonetics Lab}
@@ -184,7 +184,7 @@ Given the RGB images of objects find out the 3d Point cloud of the objects in th
 
 \section{Awards}
 \begin{tabular}{rll}
-2018         & top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIIT Hyderabad}. \\
+2018         & top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIITH}. \\
 2017         & top 18 / 4500 Selected for Think Raipur conducted by RSCL. \\
 2017 		 & Best Project Award for making the Air Pollution Monitering System. \\
 
@@ -202,8 +202,8 @@ Given the RGB images of objects find out the 3d Point cloud of the objects in th
 - &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
 - &{\bf Visual Odometry} recovering trajectory using camera.\\
 - &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
-- &Made {\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
-- &Made {\bf 2D Game}, {\bf 3D Game} and and {\bf 3D infinite Runner game} in {\bf OpenGL and WebGL}.\\
+- &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
+- &{\bf 2D Game}, {\bf 3D Game} and and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
 - &{\bf Matlab Image processing} to remove noise from Images and sound. \\
 - &Shell and Changing {\bf xv36 Operating System} for new features.\\
 - &AI {\bf MDP Utility generator}. \\
