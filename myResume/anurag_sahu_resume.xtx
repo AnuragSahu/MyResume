@@ -165,12 +165,12 @@ Working on making synthetic warehouses for training the DL/RL models wo that the
 
 \runsubsection{Ongoing Project 1}
 \descript{| Applications on synthetic warehouses}
-Given the RGB images of racks with some objects in them, Estimate the Free space in the racks. Find the Bounding boxes aroud the objects placed in the racks and the racks themselves.
+Given the RGB images of racks with some objects in them, Estimate the Free space in the racks. Find the Bounding boxes around the objects placed in the racks and the racks themselves.
 \sectionsep
 
 \runsubsection{Ongoing Project 2}
 \descript{| Applications on Real images}
-Given the RGB images of objects find out the 3d Point cloud of the objects in the picture.\sectionsep
+Given the RGB images of objects Predict the 3d Point cloud of the objects in the picture. Also prediting the Occluded Side of the Objects.\sectionsep
 
 %\runsubsection{Cornell Phonetics Lab}
 %\descript{| Head Undergraduate Researcher}
