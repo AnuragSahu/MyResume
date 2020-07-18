@@ -90,9 +90,8 @@ Computer Networks \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 1000 lines:}
 \textbullet{} Python \\
-\textbullet{} C++ \\
+\textbullet{} C++ 
 \textbullet{} Matlab \\
 \textbullet{} Git 
 \textbullet{} MySQL
@@ -170,6 +169,19 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 %\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXTRACURRICULAR ACTIVITES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Extracurricular Activites}
+\runsubsection{JP Morgan And Chase}
+\descript{| Virtual Program Participant}
+\location{May 2020 – June 2020}
+- Establishing Financial Data Feeds \\
+- Frontend Web Development \\
+- Data Visualization with Perspective \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -177,7 +189,6 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 \begin{tabular}{rll}
 2018         & top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIITH}. \\
 2017         & top 18 / 4500 Selected for Think Raipur conducted by RSCL. \\
-2017 		 & Best Project Award for making the Air Pollution Monitering System. \\
 
 \end{tabular}
 
@@ -203,18 +214,6 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXTRACURRICULAR ACTIVITES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Extracurricular Activites}
-\runsubsection{JP Morgan And Chase}
-\descript{| Virtual Program Participant}
-\location{May 2020 – June 2020}
-- Establishing Financial Data Feeds \\
-- Frontend Web Development \\
-- Data Visualization with Perspective \\
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
