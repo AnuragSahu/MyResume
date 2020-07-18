@@ -18,7 +18,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{BTech 3rd year IIIT Hyderabad.}%| \href{http://fb.co/dd}{fb.co/dd}\\
+\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{BTech 4th year IIIT Hyderabad.}%| \href{http://fb.co/dd}{fb.co/dd}\\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -160,17 +160,8 @@ Training in Android. \\
 \runsubsection{Robotics Research Center}
 \descript{| Master's Student}
 \location{Dec 2018 – Ongoing | Hyderabad, India}
-Working on making synthetic warehouses for training the DL/RL models wo that the models can be trained with and without supervision.
+Working on making synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
 \sectionsep
-
-\runsubsection{Ongoing Project 1}
-\descript{| Applications on synthetic warehouses}
-Given the RGB images of racks with some objects in them, Estimate the Free space in the racks. Find the Bounding boxes around the objects placed in the racks and the racks themselves.
-\sectionsep
-
-\runsubsection{Ongoing Project 2}
-\descript{| Applications on Real images}
-Given the RGB images of objects Predict the 3d Point cloud of the objects in the picture. Also prediting the Occluded Side of the Objects.\sectionsep
 
 %\runsubsection{Cornell Phonetics Lab}
 %\descript{| Head Undergraduate Researcher}
@@ -198,7 +189,7 @@ Given the RGB images of objects Predict the 3d Point cloud of the objects in the
 \sectionsep
 \section{Academic Projects}
 \begin{tabular}{rll}
-
+- &{\bf Point Cloud Reconstruction} from 2D Images. \\
 - &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
 - &{\bf Visual Odometry} recovering trajectory using camera.\\
 - &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
@@ -210,6 +201,19 @@ Given the RGB images of objects Predict the 3d Point cloud of the objects in the
 
 \end{tabular}
 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXTRACURRICULAR ACTIVITES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Extracurricular Activites}
+\runsubsection{JP Morgan And Chase}
+\descript{| Virtual Program Participant}
+\location{May 2020 – June 2020}
+- Establishing Financial Data Feeds \\
+- Frontend Web Development \\
+- Data Visualization with Perspective \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
