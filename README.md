@@ -23,4 +23,4 @@ tada there you go the resume is up just check the anurag_sahu_resume.pdf
  
  ## Snapshot
  
- ![Loading Resume Image](myResume/anurag_sahu_resume.png)
+ ![Loading Resume Image](SWe/anurag_sahu_resume.png)
