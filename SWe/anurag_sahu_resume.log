@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.3.29)  19 JUL 2020 13:08
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.3.29)  28 JUL 2020 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,11 +915,11 @@ isodate: babel.sty, (n)german.sty have not been loaded
 .................................................
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 34.
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 36.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 34.
+(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -941,48 +941,33 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 69.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
-
- []
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 38.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 189.
+(Font)              <7> on input line 180.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 189.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+(Font)              <5> on input line 180.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
  (./anurag_sahu_resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 19608 strings out of 494988
- 374271 string characters out of 6178638
- 471928 words of memory out of 5000000
- 23323 multiletter control sequences out of 15000+600000
+ 19606 strings out of 494988
+ 374245 string characters out of 6178638
+ 471768 words of memory out of 5000000
+ 23321 multiletter control sequences out of 15000+600000
  530904 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 52i,11n,118p,10548b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,11n,118p,10548b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on anurag_sahu_resume.pdf (1 page).

@@ -28,12 +28,25 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{IIIT Hyderabad}
+\descript{B.Tech. and M.S. by Research}
+\location{Aug 2018 | Hyderabad, India}
+Expected Graduation:2022 \\
+Cumulative GPA : 7.56 / 10
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Contact
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Contact}
 Phone  +91 7898067490 \\
-anuragsahu926@gmail.com \\
 anurag.sahu@research.iiit.ac.in \\
 AnuragSahu.github.io \\
 \sectionsep
@@ -54,35 +67,14 @@ CodeChef:// \href{https://www.codechef.com/users/anuragboy}{\bf anuragsahu} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-
-%\subsection{Graduate}
-%Advanced Machine Learning \\
-%Open Source Software Engineering \\
-%Advanced Interactive Graphics \\
-%Compilers + Practicum \\
-%Cloud Computing \\
-%Evolutionary Computation \\
-%Defending Computer Networks \\
-%Machine Learning \\
-%\sectionsep
-
-\subsection{Undergraduate}
 Operating Systems \\
 Artificial Intelligence \\
 Algorithms \\
 Computation Complexity Theory \\
-
-Artificial Intelligence \\
-Computer Graphics \\
-Digital Signal Analysis \\
-Formal Methods \\
+Introduction to Databases \\
 Computer Networks \\
-
-
-%Functional Programming \\
-%Computer Graphics + Practicum \\
-%{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-%Unix Tools and Scripting \\
+Structured Systems Analysis and Design \\
+Distributed Systems \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -108,6 +100,15 @@ Training in Android. \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     OTHER HOBBIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Other Hobbies}
+- Riding \\
+- Creating and Capturing Memories \\
+- DIYing \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
 %
@@ -127,46 +128,25 @@ Training in Android. \\
 \location{Aug 2018 - Nov 2018 | Hyderabad, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
+\item Introduced to Gitlab and Github.
 \item Developed the Exeperiment module for Infix to postfix Exercise.
-\item Made the Video artefact for the Infix to Postfix Exercise.
 \end{tightemize}
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Education}
-
-\subsection{IIIT Hyderabad}
-\descript{BTech in Computer Science}
-\location{Aug 2018 | Hyderabad, India}
-\sectionsep
-
-\subsection{IIIT Naya Raipur}
-\descript{BTech in Computer Science}
-\location{Jun 2018 - Aug 2018 | Naya Raipur, India}
-\location{ Cum. GPA: 4.1 / 5.0 }
-\sectionsep
-
-\subsection{Sri Sankra Vidyalaya}
-\location{Grad. Jun 2016|  Hyderabad, India}
-\sectionsep
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     RESEARCH EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
+\section{Research Experience}
 \runsubsection{Robotics Research Center}
 \descript{| Master's Student}
 \location{Dec 2018 – Ongoing | Hyderabad, India}
-Working on making synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
+\begin{tightemize}
+\item Pursuing master degree under Prof. K Madhav Krishna on Deep learning Applications on Warehouses.
+\item Made a synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
+\item Currently trying to develop Model to Reconstruct the Voxels in the warehouse to estimate the Free space.
+\end{tightemize}
 \sectionsep
-
-%\runsubsection{Cornell Phonetics Lab}
-%\descript{| Head Undergraduate Researcher}
-%\location{Mar 2012 – May 2013 | Ithaca, NY}
-%Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
-%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXTRACURRICULAR ACTIVITES
@@ -176,6 +156,7 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 \runsubsection{JP Morgan And Chase}
 \descript{| Virtual Program Participant}
 \location{May 2020 – June 2020}
+Participated in the JP Morgan and Chase Virtual Internship program with Insidesherpa.\\
 - Establishing Financial Data Feeds \\
 - Frontend Web Development \\
 - Data Visualization with Perspective \\
@@ -186,11 +167,8 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards}
-\begin{tabular}{rll}
-2018         & top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIITH}. \\
-2017         & top 18 / 4500 Selected for Think Raipur conducted by RSCL. \\
-
-\end{tabular}
+- 2018 top 5 / 10000 Selected for admission through {\bf Lateral Entry at IIITH}. \\
+- 2017 top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes. \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -205,7 +183,7 @@ Working on making synthetic warehouses for training the DL/RL models so that the
 - &{\bf Visual Odometry} recovering trajectory using camera.\\
 - &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
 - &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
-- &{\bf 2D Game}, {\bf 3D Game} and and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
+- &{\bf 2D Game}, {\bf 3D Game} and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
 - &{\bf Matlab Image processing} to remove noise from Images and sound. \\
 - &Shell and Changing {\bf xv36 Operating System} for new features.\\
 - &AI {\bf MDP Utility generator}. \\
