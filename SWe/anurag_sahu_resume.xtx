@@ -1,5 +1,6 @@
 \documentclass[]{anurag_sahu_cls}
 \usepackage{fancyhdr}
+\usepackage{xcolor}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -137,16 +138,6 @@ Training in Android. \\
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Teaching Assistant}
-\descript{| Digital Systems and Microcontrollers }
-\location{IIIT Hyderabad, India}
-- subject offered to First year undergraduate students.  \\
-- Responsibilities include designing and correcting exams and assignments. \\
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\end{tightemize}
-\sectionsep
-
 \runsubsection{JP Morgan And Chase}
 \descript{| Virtual Internship Program}
 \location{May 2020 – June 2020}
@@ -164,9 +155,10 @@ Training in Android. \\
 \runsubsection{Robotics Research Center, IIIT Hyderabad}
 \descript{}
 \begin{tightemize}
-\item Working under {\bf Professor K Madhav Krishna} on Deep learning Applications on Warehouses.
+\item Working under \href{https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en}{\bf Professor K Madhav Krishna} on Deep learning Applications on Warehouses.
 \item Made a synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
-\item Currently trying to develop Model to Reconstruct the Voxels in the warehouse to estimate the Free space.
+\item Paper "RackLay : Multi-Layer Layout Estimation for Warehouse Racks", \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}
+\item Dataset "WareSynth : Synthetic warehouse Generation Pipeline." \href{https://github.com/AnuragSahu/WareSynth}{\bf Project Page}
 \end{tightemize}
 \sectionsep
 
@@ -190,7 +182,7 @@ frequent writeups on Quora about various topics like \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards}
-\item - top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes in 2017. \\
+- top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes in 2017. \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     ACADEMIC PROJECTS
