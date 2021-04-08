@@ -24,9 +24,9 @@ tada there you go the resume is up just check the anurag_sahu_resume.pdf
  ## Snapshot
  
  <!-- ![Loading Resume Image](SWe/anurag_sahu_resume.png) -->
- <object data="https://github.com/AnuragSahu/MyResume/blob/master/SWe/anurag_sahu_resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/AnuragSahu/MyResume/blob/master/SWe/anurag_sahu_resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/AnuragSahu/MyResume/blob/master/SWe/anurag_sahu_resume.pdf">Download PDF</a>.</p>
+ <object data = "https://github.com/AnuragSahu/MyResume/blob/6e14baecd9b56178dfc7258cd7310e3e24a20ae4/SWe/anurag_sahu_resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/AnuragSahu/MyResume/blob/6e14baecd9b56178dfc7258cd7310e3e24a20ae4/SWe/anurag_sahu_resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/AnuragSahu/MyResume/blob/6e14baecd9b56178dfc7258cd7310e3e24a20ae4/SWe/anurag_sahu_resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
