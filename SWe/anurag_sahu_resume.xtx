@@ -94,12 +94,12 @@ Distributed Systems \\
 \textbullet{} MySQL
 \sectionsep
 
-\section{Certificates}
-\subsection{Trainings}
-Diploma in Data Science \\
-Training in JAVA ( J2SE | J2EE ) \\
-Training in PHP. \\
-Training in Android. \\
+%\section{Certificates}
+%\subsection{Trainings}
+%Diploma in Data Science \\
+%Training in JAVA ( J2SE | J2EE ) \\
+%Training in PHP. \\
+%Training in Android. \\
 
 \sectionsep
 
@@ -157,7 +157,7 @@ Training in Android. \\
 \begin{tightemize}
 \item Working under \href{https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en}{\bf Professor K Madhav Krishna} on Deep learning Applications on Warehouses.
 \item Made a synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
-\item Paper "RackLay : Multi-Layer Layout Estimation for Warehouse Racks", \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}
+\item Paper "RackLay : Multi-Layer Layout Estimation for Warehouse Racks",
 \item Dataset "WareSynth : Synthetic warehouse Generation Pipeline." \href{https://github.com/AnuragSahu/WareSynth}{\bf Project Page}
 \end{tightemize}
 \sectionsep
@@ -169,8 +169,8 @@ Training in Android. \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Publications}
-\runsubsection{Under Review in International Conference on Intelligent Robots and Systems 2021}
-- Worked  on RackLay : Multi-Layer Layout Estimation for Warehouse Racks
+\runsubsection{Under Review in International Conference on Intelligent Robots and Systems 2021} \\
+- RackLay : Multi-Layer Layout Estimation for Warehouse Racks, Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

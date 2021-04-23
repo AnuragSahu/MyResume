@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2021.4.8)  23 APR 2021 21:29
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2021.4.8)  23 APR 2021 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,12 +981,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 220.
  ) 
 Here is how much of TeX's memory you used:
- 19639 strings out of 494988
- 374980 string characters out of 6178639
- 472774 words of memory out of 5000000
+ 19640 strings out of 494988
+ 375075 string characters out of 6178639
+ 471632 words of memory out of 5000000
  23343 multiletter control sequences out of 15000+600000
- 532796 words of font info for 71 fonts, out of 8000000 for 9000
+ 532804 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 52i,11n,118p,10548b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,11n,118p,10548b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on anurag_sahu_resume.pdf (1 page).
