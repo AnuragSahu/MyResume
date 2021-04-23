@@ -162,6 +162,17 @@ Training in Android. \\
 \end{tightemize}
 \sectionsep
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Publications}
+\runsubsection{Under Review in International Conference on Intelligent Robots and Systems 2021}
+- Worked  on RackLay : Multi-Layer Layout Estimation for Warehouse Racks
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXTRACURRICULAR ACTIVITES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -181,8 +192,8 @@ frequent writeups on Quora about various topics like \\
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards}
-- top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes in 2017. \\
+%\section{Awards}
+%- top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes in 2017. \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     ACADEMIC PROJECTS
@@ -204,17 +215,6 @@ frequent writeups on Quora about various topics like \\
 \end{tabular}
 
 \sectionsep
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\section{Publications}
-%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-%\bibliographystyle{abbrv}
-%\bibliography{publications}
-%\nocite{*}
 
 \end{minipage}
 \end{document}  \documentclass[]{article}
