@@ -129,24 +129,16 @@ Distributed Systems \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{VLEAD}
-\descript{| Software Intern }
-\location{Aug 2018 - Nov 2018 | Hyderabad, India}
+
+\runsubsection{Deep Vidya AI Pvt. Ltd.}
+\descript{| Computer Vision Intern }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Introduced to Gitlab and Github.
-\item Developed the Experiment module for Infix to postfix Exercise.
+\item Conducting Research on new Treds in AI/ML.
+\item Performing Experiments using Different CV/DL Algorithms.
+\item Engaging in content creation for Deep learning and Computer Vision Courses.
 \end{tightemize}
 \sectionsep
-
-\runsubsection{JP Morgan And Chase}
-\descript{| Virtual Internship Program}
-\location{May 2020 – June 2020}
-- Establishing Financial Data Feeds \\
-- Frontend Web Development \\
-- Data Visualization with Perspective \\
-\sectionsep
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH EXPERIENCE
@@ -188,6 +180,16 @@ frequent writeups on Quora about various topics like \\
 - Image and signal processing \\
 - Collages \\ 
 \sectionsep
+
+
+\runsubsection{JP Morgan And Chase}
+\descript{| Virtual Internship Program}
+\location{May 2020 – June 2020}
+- Establishing Financial Data Feeds \\
+- Frontend Web Development \\
+- Data Visualization with Perspective \\
+\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
