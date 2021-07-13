@@ -130,11 +130,21 @@ Distributed Systems \\
 
 \section{Experience}
 
+\runsubsection{SONY India Software Centre Pvt Ltd}
+\descript{| Computer Vision Intern }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Conducting Research on Refining Depth Maps from Single/Multiple Views.
+\item Creating Dense Depth Maps, Calibrating Depth Maps and RGB Images.
+\item Human Body Reconstruction using Multiple Views.
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Deep Vidya AI Pvt. Ltd.}
 \descript{| Computer Vision Intern }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Conducting Research on new Treds in AI/ML.
+\item Conducting Research on Depth Estimation via Single/Multiple Views.
 \item Performing Experiments using Different CV/DL Algorithms.
 \item Engaging in content creation for Deep learning and Computer Vision Courses.
 \end{tightemize}
@@ -149,8 +159,6 @@ Distributed Systems \\
 \descript{}
 \begin{tightemize}
 \item Working under \href{https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en}{\bf Professor K Madhav Krishna} on Deep learning Applications on Warehouses.
-\item Made a synthetic warehouses for training the DL/RL models so that the models can be trained with and without supervision.
-\item Paper "RackLay : Multi-Layer Layout Estimation for Warehouse Racks",
 \item Dataset "WareSynth : Synthetic warehouse Generation Pipeline." \href{https://github.com/AnuragSahu/WareSynth}{\bf Project Page}
 \end{tightemize}
 \sectionsep
@@ -184,9 +192,7 @@ Distributed Systems \\
 \runsubsection{Writing on Online Platforms}
 \descript{| Quora (500 K+ views)}
 frequent writeups on Quora about various topics like \\
-- Technology \\
-- Image and signal processing \\
-- Collages \\ 
+- Technology, Image and signal processing, Deep learning \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -210,8 +216,6 @@ frequent writeups on Quora about various topics like \\
 - &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
 - &{\bf 2D Game}, {\bf 3D Game} and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
 - &{\bf Matlab Image processing} to remove noise from Images and sound. \\
-- &Shell and Changing {\bf xv36 Operating System} for new features.\\
-- &AI {\bf MDP Utility generator}. \\
 
 \end{tabular}
 
