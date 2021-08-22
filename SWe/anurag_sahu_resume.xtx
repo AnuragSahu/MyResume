@@ -134,7 +134,7 @@ Distributed Systems \\
 \descript{| Computer Vision Intern }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Conducting Research on Refining Depth Maps from Single/Multiple Views.
+\item Developed POC for improving Depth Maps from cameras.
 \item Creating Dense Depth Maps, Calibrating Depth Maps and RGB Images.
 \item Human Body Reconstruction using Multiple Views.
 \end{tightemize}
