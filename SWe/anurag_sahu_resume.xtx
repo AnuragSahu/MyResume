@@ -19,7 +19,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{BTech 4th year IIIT Hyderabad.}%| \href{http://fb.co/dd}{fb.co/dd}\\
+\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{BTech + MS 5th year IIIT Hyderabad.}%| \href{http://fb.co/dd}{fb.co/dd}\\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -39,6 +39,7 @@
 \subsection{IIIT Hyderabad}
 \descript{B.Tech. and M.S. by Research}
 \location{Hyderabad, India}
+CGPA : 7.8 \\
 Expected Graduation:2022 \
 \sectionsep
 
@@ -46,7 +47,7 @@ Expected Graduation:2022 \
 %     Contact
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Contact}
-Phone  +91 7898067490 \\
+Phone  +91 8602043478 \\
 anurag.sahu@research.iiit.ac.in \\
 AnuragSahu.github.io \\
 \sectionsep
@@ -130,7 +131,7 @@ Distributed Systems \\
 
 \section{Experience}
 
-\runsubsection{SONY India Software Centre Pvt Ltd}
+\runsubsection{SONY India Pvt Ltd}
 \descript{| Computer Vision Intern }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
@@ -142,10 +143,9 @@ Distributed Systems \\
 
 \runsubsection{Deep Vidya AI Pvt. Ltd.}
 \descript{| Computer Vision Intern }
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Conducting Research on Depth Estimation via Single/Multiple Views.
-\item Performing Experiments using Different CV/DL Algorithms.
 \item Engaging in content creation for Deep learning and Computer Vision Courses.
 \end{tightemize}
 \sectionsep
@@ -170,8 +170,11 @@ Distributed Systems \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Publications}
-\runsubsection{Under Review in International Conference on Intelligent Robots and Systems 2021} \\
-- RackLay : Multi-Layer Layout Estimation for Warehouse Racks, Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}
+\runsubsection{ICVJIP 2021} \\
+- Multi-Layer Layout Estimation for Warehouse Racks, Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}\\
+\sectionsep
+\runsubsection{Under Review ICRA 2022} \\
+- RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer, Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -211,7 +214,7 @@ frequent writeups on Quora about various topics like \\
 \begin{tabular}{rll}
 - &{\bf Point Cloud Reconstruction} from 2D Images. \\
 - &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
-- &{\bf Visual Odometry} recovering trajectory using camera.\\
+%- &{\bf Visual Odometry} recovering trajectory using camera.\\
 - &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
 - &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
 - &{\bf 2D Game}, {\bf 3D Game} and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
