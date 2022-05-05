@@ -19,7 +19,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{BTech + MS 5th year IIIT Hyderabad.}%| \href{http://fb.co/dd}{fb.co/dd}\\
+\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{+91 8602043478, anuragsahu926@gmail.com}%| \href{http://fb.co/dd}{fb.co/dd}\\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -49,6 +49,7 @@ Expected Graduation:2022 \
 \section{Contact}
 Phone  +91 8602043478 \\
 anurag.sahu@research.iiit.ac.in \\
+anuragsahu926@gmail.com \\
 AnuragSahu.github.io \\
 \sectionsep
 
@@ -59,7 +60,7 @@ AnuragSahu.github.io \\
 \section{Links}
 Github:// \href{https://github.com/AnuragSahu}{\bf AnuragSahu} \\
 LinkedIn:// \href{https://www.linkedin.com/in/anurag-sahu-93ba27143/}{\bf Anurag-Sahu} \\
-Quora:// \href{https://www.quora.com/profile/Anurag-Sahu-25}{\bf Anurag-Sahu} \\
+Quora:// \href{https://www.quora.com/profile/Anurag-Sahu-25}{\bf Anurag-Sahu} (850k+ Views)\\ 
 CodeChef:// \href{https://www.codechef.com/users/anuragboy}{\bf anuragsahu} \\
 3-Star(Highest Rating : 1721)
 \sectionsep
@@ -164,6 +165,20 @@ Distributed Systems \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     FULL STACK PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\sectionsep
+\section{Full Stack Projects}
+\runsubsection{EV Charging Application}
+\descript{| Android App with backend}
+- Android App Interface that fetches data from BackEnd API. \\
+- Backend End made on Node.js uses Cloud MongoDB to store data. \\
+- Working on Web-based Interface. \\
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -187,10 +202,10 @@ Distributed Systems \\
 - Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \\
 - Accepted in {\bf ICVJIP 2021}. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}\\
 \sectionsep
-\runsubsection{RackLay} \\
-- predict the bird's-eye view layout for each shelf in the rack made it working for real Images. \\
-- able to estimate Ego-Centric Layouts. \\
-- In Review in {\bf ICRA 2022}. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page} \\
+%\runsubsection{RackLay} \\
+%- predict the bird's-eye view layout for each shelf in the rack made it working for real Images. \\
+%- able to estimate Ego-Centric Layouts. \\
+%- In Review in {\bf ICRA 2022}. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page} \\
 
 \sectionsep
 
@@ -209,11 +224,7 @@ Distributed Systems \\
 %\sectionsep
 
 
-\runsubsection{Writing on Online Platforms}
-\descript{| Quora (780 K+ views)}
-writeups on Technology, Image and signal processing, Deep learning \\
-% - Technology, Image and signal processing, Deep learning \\
-\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
@@ -236,10 +247,7 @@ writeups on Technology, Image and signal processing, Deep learning \\
 - &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
 - &{\bf 2D Game}, {\bf 3D Game} and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
 - &{\bf Matlab Image processing} to remove noise from Images and sound. \\
-
 \end{tabular}
-
-\sectionsep
 
 \end{minipage}
 \end{document}  \documentclass[]{article}

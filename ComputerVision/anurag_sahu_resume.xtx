@@ -1,0 +1,246 @@
+\documentclass[]{anurag_sahu_cls}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Anurag}{Sahu}{ \urlstyle{same} \href{http://AnuragSahu.github.io}{+91 8602043478, anuragsahu926@gmail.com}%| \href{http://fb.co/dd}{fb.co/dd}\\
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{IIIT Hyderabad}
+\descript{B.Tech. and M.S. by Research}
+\location{Hyderabad, India}
+CGPA : 7.8 \\
+Expected Graduation:2022 \
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Contact
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Contact}
+Phone  +91 8602043478 \\
+anurag.sahu@research.iiit.ac.in \\
+anuragsahu926@gmail.com \\
+AnuragSahu.github.io \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+Github:// \href{https://github.com/AnuragSahu}{\bf AnuragSahu} \\
+LinkedIn:// \href{https://www.linkedin.com/in/anurag-sahu-93ba27143/}{\bf Anurag-Sahu} \\
+Quora:// \href{https://www.quora.com/profile/Anurag-Sahu-25}{\bf Anurag-Sahu} \\
+CodeChef:// \href{https://www.codechef.com/users/anuragboy}{\bf anuragsahu} \\
+3-Star(Highest Rating : 1721)
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+Operating Systems \\
+Artificial Intelligence \\
+Algorithms \\
+Statistical Methods in AI \\
+Optimization Methods \\
+Computer Vision \\
+Mobile Robotics \\
+Digital Image processing \\
+Computation Complexity Theory \\
+Introduction to Databases \\
+Computer Networks \\
+Structured Systems Analysis and Design \\
+Distributed Systems \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\textbullet{} Python \\
+\textbullet{} C++ 
+\textbullet{} Matlab \\
+\textbullet{} Git 
+\textbullet{} MySQL
+\sectionsep
+
+%\section{Certificates}
+%\subsection{Trainings}
+%Diploma in Data Science \\
+%Training in JAVA ( J2SE | J2EE ) \\
+%Training in PHP. \\
+%Training in Android. \\
+
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     OTHER HOBBIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Other Hobbies}
+- Riding \\
+- Creating and Capturing Memories \\
+- DIYing \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+
+\runsubsection{Sony Corporation}
+\descript{| Software Engineering Intern }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Working with Sony India team, SARD with Computer Vision Team.
+\item Developed POC for improving Depth Maps from cameras.
+\item Creating Dense Depth Maps, Calibrating Depth Maps and RGB Images.
+\item Human Body Reconstruction using Multiple Views.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Deep Vidya AI Pvt. Ltd.}
+\descript{| Computer Vision Intern }
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Conducting Research on Depth Estimation via Single/Multiple Views.
+\item Engaging in content creation for Deep learning and Computer Vision Courses.
+\end{tightemize}
+\sectionsep
+
+%\section{Extracurricular Activites}
+
+\runsubsection{JP Morgan And Chase}
+\descript{| Virtual Internship Program}
+\location{May 2020 – June 2020}
+\begin{tightemize}
+\item Establishing Financial Data Feeds \\
+\item Frontend Web Development \\
+\item Data Visualization with Perspective \\
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Research Experience}
+\runsubsection{Robotics Research Center, IIIT Hyderabad}
+\descript{}
+\begin{tightemize}
+\item Working under \href{https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en}{\bf Professor K Madhav Krishna} on Deep learning Applications on Warehouses.
+\item Dataset "WareSynth : Synthetic warehouse Generation Pipeline." \href{https://github.com/AnuragSahu/WareSynth}{\bf Project Page}
+\end{tightemize}
+\sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Publications}
+\runsubsection{Multi-Layer Layout Estimation for Warehouse Racks} \\
+- Given a monocular colour image of a warehouse rack, predict the bird's-eye view layout for each shelf in the rack. \\
+- Accepted in {\bf ICVJIP 2021}. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page}\\
+\sectionsep
+\runsubsection{RackLay} \\
+- predict the bird's-eye view layout for each shelf in the rack made it working for real Images. \\
+- able to estimate Ego-Centric Layouts. \\
+- In Review in {\bf ICRA 2022}. \href{https://arxiv.org/abs/2103.09174}{\bf arXiv Link}, \href{https://avinash2468.github.io/RackLay/}{\bf Project page} \\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXTRACURRICULAR ACTIVITES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Extracurricular Activites}
+
+%\runsubsection{JP Morgan And Chase}
+%\descript{| Virtual Internship Program}
+%\location{May 2020 – June 2020}
+%- Establishing Financial Data Feeds \\
+%- Frontend Web Development \\
+%- Data Visualization with Perspective \\
+%\sectionsep
+
+
+\runsubsection{Writing on Online Platforms}
+\descript{| Quora (780 K+ views)}
+writeups on Technology, Image and signal processing, Deep learning \\
+% - Technology, Image and signal processing, Deep learning \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Awards}
+%- top 18 / 4500 Selected for Think Raipur conducted by RSCL for commimg up with the idea of Smart VAN for Increasing the awareness in rural areas of Chhattisgarh for Education and Govenment schemes in 2017. \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACADEMIC PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\sectionsep
+\section{Academic Projects}
+\begin{tabular}{rll}
+- &{\bf Point Cloud Reconstruction} from 2D Images. \\
+- &{\bf Stereo Dense Reconstruction} 3d point cloud out of 2d.\\
+%- &{\bf Visual Odometry} recovering trajectory using camera.\\
+%- &{\bf Localization Using EKF} Correcting the robot's estimated path.\\
+- &{\bf TIC-TAC-TOE Bot} Playing Xtreme Tic-Tac-Toe. \\
+- &{\bf 2D Game}, {\bf 3D Game} and {\bf 3D infinite Runner game} in {\bf OpenGL, WebGL}.\\
+- &{\bf Matlab Image processing} to remove noise from Images and sound. \\
+
+\end{tabular}
+
+\sectionsep
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
