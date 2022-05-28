@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.7.13)  4 MAY 2022 23:27
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.7.13)  28 MAY 2022 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -637,8 +637,8 @@ Package rerunfilecheck Warning: File `anurag_sahu_resume.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `anurag_sahu_resume.out':
-(rerunfilecheck)             Before: 25233592805EB526D7FB9DB52B1102EE;724
-(rerunfilecheck)             After:  342FCD1425ECE9B7A3491038842FDF4A;724.
+(rerunfilecheck)             Before: 342FCD1425ECE9B7A3491038842FDF4A;724
+(rerunfilecheck)             After:  144E9A1E039D3ABEEC27A30E0AA9EACC;659.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -647,10 +647,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
 Here is how much of TeX's memory you used:
  12554 strings out of 481804
  240016 string characters out of 5937876
- 555176 words of memory out of 5000000
+ 554176 words of memory out of 5000000
  29350 multiletter control sequences out of 15000+600000
  535898 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,11n,120p,387b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,120p,387b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on anurag_sahu_resume.pdf (1 page).
